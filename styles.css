@@ -1,3 +1,21 @@
+@media screen and (max-width: 540px) {
+    .view {
+        width: 400px;
+    }
+}
+
+@media screen and (min-width: 540px) and (max-width: 780px) {
+    .view {
+        width: 600px;
+    }
+}
+
+@media screen and (min-width: 780px) {
+    .view {
+        width: 100%;
+    }
+    
+}
 html , body{
     height: 100%;
     width: 100%;
@@ -236,4 +254,9 @@ button{
     left: 100px;
     position: absolute;
     font-size: xx-large;
+}
+.bar{
+    top: 400px;
+    left: 200px;
+    position: absolute;
 }
