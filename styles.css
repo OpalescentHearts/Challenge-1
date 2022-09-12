@@ -105,7 +105,7 @@ button:hover{
 }
 
 .Projects{
-    height: 69%;
+    height: 80%;
     width: 100%;
     background-color: aliceblue;
     top: 1690px;
@@ -164,16 +164,38 @@ button:hover{
     height: 20%;
     width: 30%;
     top: 990px;
-    left: 1190px;
+    left: 1180px;
     position: absolute;
 }
 .flower7{
     height: 20%;
     width: 30%;
     top: 1160px;
-    left: 1190px;
+    left: 1180px;
     position: absolute;
 }
+.flower8{
+    height: 20%;
+    width: 30%;
+    top: 1160px;
+    left: -200px;
+    position: absolute;
+}
+.flower9{
+    height: 20%;
+    width: 30%;
+    top: 1550px;
+    left: 1180px;
+    position: absolute;
+}
+.flower10{
+    height: 20%;
+    width: 30%;
+    top: 1550px;
+    left: -200px;
+    position: absolute;
+}
+
 .VinesL{
     height: 130%;
     width: 140%;
