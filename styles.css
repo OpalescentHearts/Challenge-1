@@ -260,3 +260,17 @@ button{
     left: 200px;
     position: absolute;
 }
+.rope{
+    height: 30%;
+    width: 80%;
+    top: 480px;
+    left: -475px;
+    position: absolute;
+}
+.rope2{
+    height: 30%;
+    width: 80%;
+    top: 480px;
+    left: -475px;
+    position: absolute;
+}
