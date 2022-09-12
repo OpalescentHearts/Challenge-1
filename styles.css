@@ -222,3 +222,17 @@ button{
     color: transparent! important;
      background: transparent! important; 
      border: none! important;}
+
+.python{
+    height: 20%;
+    width: 10%;
+    top: 1220px;
+    left: 90px;
+    position: absolute;
+}
+.pythonF{
+    top: 1275px;
+    left: 100px;
+    position: absolute;
+    font-size: xx-large;
+}
