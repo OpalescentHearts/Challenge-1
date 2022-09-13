@@ -1,17 +1,5 @@
-/*Phones*/
-@media screen and (max-width: 540px) {
-    .view {
-        width: 400px;
-    }
-}
-/*Tablets*/
-@media screen and (min-width: 540px) and (max-width: 780px) {
-    .view {
-        width: 600px;
-    }
-}
 /*Computers*/
-@media screen and (min-width: 780px) {
+@media screen and (min-width: 780px){
    /*Body*/
     .view {
         width: 100%;
@@ -21,23 +9,15 @@
         padding: 0px;
     }
     body{
-    background-image: linear-gradient(#9E606F, #C07F80, #E1AA96, #E9BCB2, #E1989F);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    padding: 0%;
-    margin: 0%;
-    font-family: 'Brush Script MT', cursive;
-    overflow-x: hidden;
+        background-image: linear-gradient(#9E606F, #C07F80, #E1AA96, #E9BCB2, #E1989F);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        padding: 0%;
+        margin: 0%;
+        font-family: 'Brush Script MT', cursive;
+        overflow-x: hidden;
+        
 }
-    button:hover{
-    background-color: #ffcece;
-}
-button{
-    color: transparent! important;
-     background: transparent! important; 
-     border: none! important;}
-
-
 /*Heading*/
 .Name{
     height:100%;
@@ -51,13 +31,6 @@ button{
     height: 130%;
     width: 140%;
     top: -285px;
-    left: -300px;
-    position: absolute;
-}
-.VinesR{
-    height: 130%;
-    width: 140%;
-    top: -285px;
     left: -268px;
     position: absolute;
 }
@@ -65,19 +38,17 @@ button{
 
 /*About me*/
 .Aboutb{
-    height: 16%;
-    width: 13%;
-    background-color: aliceblue;
-    border-radius: 100%;
-    top: 13px;
-    left: 10px;
+    height: 35%;
+    width: 40%;
+    top: -59px;
+    left: -175px;
     position: absolute;
 }
 .Picture{
     height: 70%;
     width: 32%;
     background-color:#9E606F;
-    top: 570px;
+    top: 800px;
     left: -1px;
     position: absolute;
     border-radius: 25%;
@@ -86,12 +57,12 @@ button{
     height: 70%;
     width: 100%;
     background-color: aliceblue;
-    top: 570px;
+    top: 800px;
     left:0px;
     position: absolute;
 }
 .AboutF{
-    top: 650px;
+    top: 900px;
     left:498px;
     position: absolute;
     font-size:xx-large;
@@ -99,14 +70,14 @@ button{
 .rope{
     height: 30%;
     width: 80%;
-    top: 978px;
+    top: 717px;
     left: -180px;
     position: absolute;
 }
 .rope2{
     height: 30%;
     width: 80%;
-    top: 480px;
+    top: 717px;
     left: -475px;
     position: absolute;
 }
@@ -114,42 +85,42 @@ button{
 .flower1{
     height: 20%;
     width: 30%;
-    top: 557px;
+    top: 717px;
     left: 1190px;
     position: absolute;
 }
 .flower2{
     height: 20%;
     width: 30%;
-    top: 986px;
+    top: 717px;
     left: -198px;
     position: absolute;
 }
 .flower3{
     height: 20%;
     width: 30%;
-    top: 557px;
+    top: 717px;
     left: -198px;
     position: absolute;
 }
 .flower4{
     height: 20%;
     width: 30%;
-    top: 990px;
+    top: 717px;
     left: 230px;
     position: absolute;
 }
 .flower5{
     height: 20%;
     width: 30%;
-    top: 557px;
+    top: 717px;
     left: 225px;
     position: absolute;
 }
 .flower6{
     height: 20%;
     width: 30%;
-    top: 990px;
+    top: 717px;
     left: 1180px;
     position: absolute;
 }
@@ -157,19 +128,17 @@ button{
 
 /*Skills*/
 .Skillsb{
-    height: 16%;
-    width: 13%;
-    background-color: aliceblue;
-    border-radius: 100%;
-    top: 10px;
-    left: 1200px;
+    height: 35%;
+    width: 40%;
+    top: 180px;
+    left: -140px;
     position: absolute;
 }
 .Skills{
     height: 61%;
     width: 100%;
     background-color: aliceblue;
-    top: 1180px;
+    top: 1500px;
     left:0px;
     position: absolute;
 }
@@ -223,56 +192,88 @@ button{
 
 /*Projects*/
 .Projectsb{
-    height: 16%;
-    width: 13%;
-    background-color: aliceblue;
-    border-radius: 100%;
-    top: 140px;
-    left: 1125px;
+    height: 35%;
+    width: 40%;
+    top: 316px;
+    left: -120px;
     position: absolute;
 }
 .Projects{
     height: 80%;
     width: 100%;
     background-color: aliceblue;
-    top: 1690px;
+    top: 2200px;
     left:0px;
     position: absolute;
 }
 
 /*Contacts*/
 .Contactsb{
-    height: 16%;
-    width: 13%;
-    background-color: aliceblue;
-    border-radius: 100%;
-    top: 138px;
-    left: 90px;
+    height: 35%;
+    width: 40%;
+    top: 75px;
+    left: -40px;
     position: absolute;
 }
 .Contacts{
     height: 40%;
     width: 100%;
     background-color: aliceblue;
-    top: 2369px;
+    top: 3000px;
     left:1px;
     position: absolute;
 }
+
+/*border*/
+.border1{
+    height: 30%;
+    width: 30%;
+    top: 600px;
+    left:-100px;
+    position: absolute;
+}
+.border2{
+    height: 30%;
+    width: 30%;
+    top: 600px;
+    left:130px;
+    position: absolute;
+}
+.border3{
+    height: 30%;
+    width: 30%;
+    top: 600px;
+    left:360px;
+    position: absolute;
+}
+.border4{
+    height: 30%;
+    width: 30%;
+    top: 600px;
+    left:600px;
+    position: absolute;
+}
+.border5{
+    height: 30%;
+    width: 30%;
+    top: 600px;
+    left:830px;
+    position: absolute;
+}
+.border6{
+    height: 30%;
+    width: 30%;
+    top: 600px;
+    left:1067px;
+    position: absolute;
+}
+
 
 /*?*/
-.Temporary{
-    height: 10%;
-    width: 100%;
-    background-color: aliceblue;
-    top: 380px;
-    left:1px;
-    position: absolute;
-}
-
 .test{
     height: 35%;
     width: 40%;
-    top: -55px;
-    left: -200px;
+    top: -59px;
+    left: -175px;
     position: absolute;
 }
