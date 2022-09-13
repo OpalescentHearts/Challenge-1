@@ -12,6 +12,7 @@
 }
 /*Computers*/
 @media screen and (min-width: 780px) {
+   /*Body*/
     .view {
         width: 100%;
         height: 100%;
@@ -19,10 +20,7 @@
         margin: 0px;
         padding: 0px;
     }
-    
-}
-
-body{
+    body{
     background-image: linear-gradient(#9E606F, #C07F80, #E1AA96, #E9BCB2, #E1989F);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -31,6 +29,16 @@ body{
     font-family: 'Brush Script MT', cursive;
     overflow-x: hidden;
 }
+    button:hover{
+    background-color: #ffcece;
+}
+button{
+    color: transparent! important;
+     background: transparent! important; 
+     border: none! important;}
+
+
+/*Heading*/
 .Name{
     height:100%;
     width: 100%;
@@ -39,24 +47,23 @@ body{
     position: absolute;
     
 }
-.Skillsb{
-    height: 16%;
-    width: 13%;
-    background-color: aliceblue;
-    border-radius: 100%;
-    top: 10px;
-    left: 1200px;
+.VinesL{
+    height: 130%;
+    width: 140%;
+    top: -285px;
+    left: -300px;
     position: absolute;
 }
-.Projectsb{
-    height: 16%;
-    width: 13%;
-    background-color: aliceblue;
-    border-radius: 100%;
-    top: 140px;
-    left: 1125px;
+.VinesR{
+    height: 130%;
+    width: 140%;
+    top: -285px;
+    left: -268px;
     position: absolute;
 }
+
+
+/*About me*/
 .Aboutb{
     height: 16%;
     width: 13%;
@@ -66,16 +73,6 @@ body{
     left: 10px;
     position: absolute;
 }
-.Contactsb{
-    height: 16%;
-    width: 13%;
-    background-color: aliceblue;
-    border-radius: 100%;
-    top: 138px;
-    left: 90px;
-    position: absolute;
-}
-
 .Picture{
     height: 70%;
     width: 32%;
@@ -85,20 +82,6 @@ body{
     position: absolute;
     border-radius: 25%;
 }
-
-.Temporary{
-    height: 10%;
-    width: 100%;
-    background-color: aliceblue;
-    top: 380px;
-    left:1px;
-    position: absolute;
-}
-
-button:hover{
-    background-color: #ffcece;
-}
-
 .About{
     height: 70%;
     width: 100%;
@@ -113,34 +96,21 @@ button:hover{
     position: absolute;
     font-size:xx-large;
 }
-
-.Contacts{
-    height: 40%;
-    width: 100%;
-    background-color: aliceblue;
-    top: 2369px;
-    left:1px;
+.rope{
+    height: 30%;
+    width: 80%;
+    top: 978px;
+    left: -180px;
     position: absolute;
 }
-
-.Projects{
-    height: 80%;
-    width: 100%;
-    background-color: aliceblue;
-    top: 1690px;
-    left:0px;
+.rope2{
+    height: 30%;
+    width: 80%;
+    top: 480px;
+    left: -475px;
     position: absolute;
 }
-
-.Skills{
-    height: 61%;
-    width: 100%;
-    background-color: aliceblue;
-    top: 1180px;
-    left:0px;
-    position: absolute;
 }
-
 .flower1{
     height: 20%;
     width: 30%;
@@ -148,7 +118,6 @@ button:hover{
     left: 1190px;
     position: absolute;
 }
-
 .flower2{
     height: 20%;
     width: 30%;
@@ -156,7 +125,6 @@ button:hover{
     left: -198px;
     position: absolute;
 }
-
 .flower3{
     height: 20%;
     width: 30%;
@@ -164,7 +132,6 @@ button:hover{
     left: -198px;
     position: absolute;
 }
-
 .flower4{
     height: 20%;
     width: 30%;
@@ -184,6 +151,44 @@ button:hover{
     width: 30%;
     top: 990px;
     left: 1180px;
+    position: absolute;
+}
+
+
+/*Skills*/
+.Skillsb{
+    height: 16%;
+    width: 13%;
+    background-color: aliceblue;
+    border-radius: 100%;
+    top: 10px;
+    left: 1200px;
+    position: absolute;
+}
+.Skills{
+    height: 61%;
+    width: 100%;
+    background-color: aliceblue;
+    top: 1180px;
+    left:0px;
+    position: absolute;
+}
+.python{
+    height: 32%;
+    width: 15%;
+    top: 1220px;
+    left: 90px;
+    position: absolute;
+}
+.pythonF{
+    top: 1359px;
+    left: 155px;
+    position: absolute;
+    font-size: xx-large;
+}
+.bar{
+    top: 400px;
+    left: 200px;
     position: absolute;
 }
 .flower7{
@@ -215,18 +220,52 @@ button:hover{
     position: absolute;
 }
 
-.VinesL{
-    height: 130%;
-    width: 140%;
-    top: -285px;
-    left: -300px;
+
+/*Projects*/
+.Projectsb{
+    height: 16%;
+    width: 13%;
+    background-color: aliceblue;
+    border-radius: 100%;
+    top: 140px;
+    left: 1125px;
     position: absolute;
 }
-.VinesR{
-    height: 130%;
-    width: 140%;
-    top: -285px;
-    left: -268px;
+.Projects{
+    height: 80%;
+    width: 100%;
+    background-color: aliceblue;
+    top: 1690px;
+    left:0px;
+    position: absolute;
+}
+
+/*Contacts*/
+.Contactsb{
+    height: 16%;
+    width: 13%;
+    background-color: aliceblue;
+    border-radius: 100%;
+    top: 138px;
+    left: 90px;
+    position: absolute;
+}
+.Contacts{
+    height: 40%;
+    width: 100%;
+    background-color: aliceblue;
+    top: 2369px;
+    left:1px;
+    position: absolute;
+}
+
+/*?*/
+.Temporary{
+    height: 10%;
+    width: 100%;
+    background-color: aliceblue;
+    top: 380px;
+    left:1px;
     position: absolute;
 }
 
@@ -235,42 +274,5 @@ button:hover{
     width: 40%;
     top: -55px;
     left: -200px;
-    position: absolute;
-}
-button{
-    color: transparent! important;
-     background: transparent! important; 
-     border: none! important;}
-
-.python{
-    height: 20%;
-    width: 10%;
-    top: 1220px;
-    left: 90px;
-    position: absolute;
-}
-.pythonF{
-    top: 1275px;
-    left: 100px;
-    position: absolute;
-    font-size: xx-large;
-}
-.bar{
-    top: 400px;
-    left: 200px;
-    position: absolute;
-}
-.rope{
-    height: 30%;
-    width: 80%;
-    top: 480px;
-    left: -475px;
-    position: absolute;
-}
-.rope2{
-    height: 30%;
-    width: 80%;
-    top: 480px;
-    left: -475px;
     position: absolute;
 }
