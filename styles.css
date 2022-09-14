@@ -232,6 +232,20 @@
     left: 1180px;
     position: absolute;
 }
+.monopoly{
+    height: 80%;
+    width: 49%;
+    top: 2215px;
+    left: -2px;
+    position: absolute;
+}
+.cookbook{
+    height: 80%;
+    width: 49%;
+    top: 2216px;
+    left: 720px;
+    position: absolute;
+}
 /*Contacts*/
 .Contactsb{
     height: 35%;
@@ -247,6 +261,47 @@
     top: 3000px;
     left:1px;
     position: absolute;
+}
+.ContactsT{
+    top: 2985px;
+    left: 630px;
+    position: absolute;
+    font-size: xx-large;
+}
+.ContactsL{
+    top: 3000px;
+    left: 602px;
+    position: absolute;
+    font-size: xx-large;
+}
+.ContactsF{
+    top: 3030px;
+    left: 500px;
+    position: absolute;
+    font-size: xx-large;
+}
+.Linkdin{
+    top: 2980px;
+    left: 630px;
+    position: absolute;
+    font-size: xx-large;
+}
+.LinkdinF{
+    top: 2980px;
+    left: 630px;
+    position: absolute;
+    font-size: xx-large;}
+.GithubF{
+    top: 2980px;
+    left: 630px;
+    position: absolute;
+    font-size: xx-large;
+    }
+.Github{
+    top: 2980px;
+    left: 630px;
+    position: absolute;
+    font-size: xx-large;
 }
 .flower15{
     height: 20%;
