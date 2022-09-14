@@ -141,18 +141,56 @@
     position: absolute;
 }
 .python{
-    height: 32%;
-    width: 15%;
-    top: 1500px;
-    left: 90px;
+    height: 29%;
+    width: 24%;
+    top: 1520px;
+    left: 20px;
     position: absolute;
 }
 .pythonF{
-    top: 1640px;
-    left: 155px;
+    top: 1665px;
+    left: 145px;
     position: absolute;
     font-size: xx-large;
 }
+.C{
+    height: 30%;
+    width: 25%;
+    top: 1533px;
+    left: 680px;
+    position: absolute;
+}
+.CF{
+    top: 1665px;
+    left: 816px;
+    position: absolute;
+    font-size: xx-large;
+}
+.H{
+    height: 30%;
+    width: 25%;
+    top: 1533px;
+    left: 340px;
+    position: absolute;
+}
+.HF{
+    top: 1665px;
+    left: 459px;
+    position: absolute;
+    font-size: xx-large;
+}
+.JS{
+    height: 30%;
+    width: 25%;
+    top: 1533px;
+    left: 1000px;
+    position: absolute;}
+
+.JSF{top: 1663px;
+    left: 1120px;
+    position: absolute;
+    font-size: xx-large;}
+
 .bar{
     top: 400px;
     left: 200px;
@@ -264,44 +302,37 @@
 }
 .ContactsT{
     top: 2985px;
-    left: 630px;
+    left: 623px;
     position: absolute;
     font-size: xx-large;
 }
 .ContactsL{
     top: 3000px;
-    left: 602px;
+    left: 596px;
     position: absolute;
     font-size: xx-large;
 }
-.ContactsF{
-    top: 3030px;
-    left: 500px;
+.Mail{
+    top: 3070px;
+    left: 546px;
     position: absolute;
-    font-size: xx-large;
+    height: 25%;
+    width: 20%;
+    
 }
 .Linkdin{
-    top: 2980px;
-    left: 630px;
+    top: 3068px;
+    left: 200px;
     position: absolute;
-    font-size: xx-large;
+    height: 26%;
+    width: 21%;
 }
-.LinkdinF{
-    top: 2980px;
-    left: 630px;
-    position: absolute;
-    font-size: xx-large;}
-.GithubF{
-    top: 2980px;
-    left: 630px;
-    position: absolute;
-    font-size: xx-large;
-    }
 .Github{
-    top: 2980px;
-    left: 630px;
+    top: 3070px;
+    left: 910px;
     position: absolute;
-    font-size: xx-large;
+    height: 25%;
+    width: 20%;
 }
 .flower15{
     height: 20%;
