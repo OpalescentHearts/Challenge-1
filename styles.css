@@ -1,26 +1,23 @@
-/*Computers*/
-@media screen and (min-width: 780px){
-   /*Body*/
-    .view {
-        width: 100%;
-        height: 100%;
-        width: 100%;
-        margin: 0px;
-        padding: 0px;
-    }
-    body{
-        background-image: linear-gradient(#9E606F, #C07F80, #E1AA96, #E9BCB2, #E1989F);
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        padding: 0%;
-        margin: 0%;
-        font-family: 'Brush Script MT', cursive;
-        overflow-x: hidden;
-        
+body{
+    background-image: linear-gradient(#9E606F, #C07F80, #E1AA96, #E9BCB2, #E1989F);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Brush Script MT', cursive;
+    overflow-x: hidden;
+    
+}
+.view {
+    width: 100%;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
 }
 /*Heading*/
 .Name{
-    top: -200px;
+    top: -170px;
     left: 500px;
     position: absolute;
     font-size: 200px;
@@ -79,7 +76,7 @@
     left: -475px;
     position: absolute;
 }
-}
+
 .flower1{
     height: 20%;
     width: 30%;
