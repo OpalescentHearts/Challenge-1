@@ -56,6 +56,34 @@
         left:76em;
         position: absolute;
     }
+    .Aboutb{
+        height: 35%;
+        width: 140%;
+        top: -3.2em;
+        left: -11em;
+        position: absolute;
+    }
+    .Skillsb{
+        height: 35%;
+        width: 140%;
+        top: 6.6em;
+        left: -2.2em;
+        position: absolute;
+    }
+    .Projectsb{
+        height: 35%;
+        width: 140%;
+        top: 16.3em;
+        left: -12em;
+        position: absolute;
+    }
+    .Contactsb{
+        height: 35%;
+        width: 140%;
+        top: 25em;
+        left: -1.4em;
+        position: absolute;
+    }
   }
 /*Iphone*/
 @media only screen 
@@ -78,42 +106,42 @@
         height: 30%;
         width: 130%;
         top: 45em;
-        left:-110px;
+        left:-10em;
         position: absolute;
     }
     .border2{
         height: 30%;
         width: 130%;
         top: 45em;
-        left:200px;
+        left:10em;
         position: absolute;
     }
     .border3{
         height: 30%;
         width: 130%;
         top: 45em;
-        left:510px;
+        left:30em;
         position: absolute;
     }
     .border4{
         height: 30%;
         width: 130%;
         top: 45em;
-        left:830px;
+        left:50em;
         position: absolute;
     }
     .border5{
         height: 30%;
         width: 130%;
         top: 45em;
-        left:1100px;
+        left:70em;
         position: absolute;
     }
     .border6{
         height: 30%;
         width: 130%;
         top: 45em;
-        left:1400px;
+        left:90em;
         position: absolute;
     }
     
