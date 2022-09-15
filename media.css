@@ -1,16 +1,59 @@
 @media only screen 
-  and (min-device-width: 300px) {
+  and (min-device-width: 0px)
+  and (max-device-width: 390px) {
     .Name{
         top: -0.60em;
-        left: 3em;
+        left: 2.5em;
         position: absolute;
-        font-size: 10em;
+        font-size: 13em;
     }
     .VinesL{
         height: 140%;
         width: 500%;
         top: -21em;
-        left: -13em;
+        left: -17em;
+        position: absolute;
+    }
+    .border1{
+        height: 30%;
+        width: 130%;
+        top: 45em;
+        left:-7em;
+        position: absolute;
+    }
+    .border2{
+        height: 30%;
+        width: 130%;
+        top: 45em;
+        left:11em;
+        position: absolute;
+    }
+    .border3{
+        height: 30%;
+        width: 130%;
+        top: 45em;
+        left:27em;
+        position: absolute;
+    }
+    .border4{
+        height: 30%;
+        width: 130%;
+        top: 45em;
+        left:42em;
+        position: absolute;
+    }
+    .border5{
+        height: 30%;
+        width: 130%;
+        top: 45em;
+        left:58em;
+        position: absolute;
+    }
+    .border6{
+        height: 30%;
+        width: 130%;
+        top: 45em;
+        left:76em;
         position: absolute;
     }
   }
