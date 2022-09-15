@@ -21,7 +21,7 @@
     .Name{
         top: -0.60em;
         left: 2.5em;
-        position: absolute;
+        position: fixed;
         font-size: 13em;
     }
     .VinesL{
@@ -29,77 +29,77 @@
         width: 500%;
         top: -21em;
         left: -17em;
-        position: absolute;
+        position: fixed;
     }
     .border1{
         height: 30%;
         width: 130%;
         top: 45em;
         left:-7em;
-        position: absolute;
+        position: fixed;
     }
     .border2{
         height: 30%;
         width: 130%;
         top: 45em;
         left:11em;
-        position: absolute;
+        position: fixed;
     }
     .border3{
         height: 30%;
         width: 130%;
         top: 45em;
         left:27em;
-        position: absolute;
+        position: fixed;
     }
     .border4{
         height: 30%;
         width: 130%;
         top: 45em;
         left:42em;
-        position: absolute;
+        position: fixed;
     }
     .border5{
         height: 30%;
         width: 130%;
         top: 45em;
         left:58em;
-        position: absolute;
+        position: fixed;
     }
     .border6{
         height: 30%;
         width: 130%;
         top: 45em;
         left:76em;
-        position: absolute;
+        position: fixed;
     }
     .Aboutb{
         height: 35%;
         width: 140%;
         top: -3.2em;
         left: -11em;
-        position: absolute;
+        position: fixed;
     }
     .Skillsb{
         height: 35%;
         width: 140%;
         top: 6.6em;
         left: -2.2em;
-        position: absolute;
+        position: fixed;
     }
     .Projectsb{
         height: 35%;
         width: 140%;
         top: 16.3em;
         left: -12em;
-        position: absolute;
+        position: fixed;
     }
     .Contactsb{
         height: 35%;
         width: 140%;
         top: 25em;
         left: -1.4em;
-        position: absolute;
+        position: fixed;
     }
   }
 /*Iphone*/
@@ -165,28 +165,28 @@
     .Aboutb{
         height: 35%;
         width: 140%;
-        top: -4.2em;
+        top: -3.2em;
         left: -9em;
         position: absolute;
     }
     .Skillsb{
         height: 35%;
         width: 140%;
-        top: 5.5em;
-        left: -1em;
+        top: 7.4em;
+        left: 0em;
         position: absolute;
     }
     .Projectsb{
         height: 35%;
         width: 140%;
-        top: 15.2em;
+        top: 17.4em;
         left: -10.2em;
         position: absolute;
     }
     .Contactsb{
         height: 35%;
         width: 140%;
-        top: 25em;
+        top: 28em;
         left: -1.4em;
         position: absolute;
     }
@@ -468,5 +468,9 @@
     position: absolute;
     }
 }
-
+@media only screen 
+and (min-device-width: )
+and (max-device-width: ) {
+    
+}
 
