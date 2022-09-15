@@ -210,10 +210,11 @@
     position: absolute;
     }
     .AboutF{
-    top: 1000px;
-    left:498px;
+    top: 1044px;
+    left: 653px;
     position: absolute;
     font-size:50px;
+    width: 833px;
     }
     .flower1{
     height: 25%;
@@ -225,7 +226,7 @@
     .flower2{
     height: 25%;
     width: 100%;
-    top: 1490px;
+    top: 1460px;
     left: -190px;
     position: absolute;
     }
@@ -239,7 +240,7 @@
     .flower4{
     height: 25%;
     width: 100%;
-    top: 1490px;
+    top: 1460px;
     left: 329px;
     position: absolute;
     }
@@ -253,7 +254,7 @@
     .flower6{
     height: 25%;
     width: 100%;
-    top: 1490px;
+    top: 1460px;
     left: 1435px;
     position: absolute;
     }
@@ -334,14 +335,14 @@
     .flower9{
     height: 25%;
     width: 100%;
-    top: 2150px;
+    top: 2141px;
     left: 1440px;
     position: absolute;
     }
     .flower10{
     height: 25%;
     width: 100%;
-    top: 2150px;
+    top: 2141px;
     left: -200px;
     position: absolute;
     }
