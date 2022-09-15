@@ -1,3 +1,4 @@
+/*Only the top half has been worked on for all of them but the 400 one I think*/
 @media only screen 
 and (min-device-width: 0px)
 and (max-device-width: 360px) {
@@ -363,7 +364,7 @@ position: absolute;
 }
 @media only screen 
 and (min-device-width: 361px)
-and (max-device-width: 390px) {
+and (max-device-width: 389px) {
 .Name{
     top: -200px;
     left: 490px;
@@ -726,7 +727,7 @@ left: -200px;
 position: absolute;
 }}
 @media only screen 
-and (min-device-width: 391px)
+and (min-device-width: 392px)
 and (max-device-width: 414px) {
     .Name{
         top: -200px;
@@ -1175,6 +1176,372 @@ and (max-device-width: 600px) {
         width: 140%;
         top: 420px;
         left: -80px;
+        position: absolute;
+    }
+    
+    /*About me*/
+.Picture{
+    height: 70%;
+    width: 130%;
+    background-color:#9E606F;
+    top: 1000px;
+    left: -1px;
+    position: absolute;
+    border-radius: 25%;
+}
+.About{
+    height: 70%;
+    width: 400%;
+    background-color: aliceblue;
+    top: 1000px;
+    left:0px;
+    position: absolute;
+}
+.AboutF{
+    top: 1000px;
+    left:498px;
+    position: absolute;
+    font-size:50px;
+}
+.flower1{
+    height: 25%;
+    width: 100%;
+    top: 960px;
+    left: 1435px;
+    position: absolute;
+}
+.flower2{
+    height: 25%;
+    width: 100%;
+    top: 1490px;
+    left: -190px;
+    position: absolute;
+}
+.flower3{
+    height: 25%;
+    width: 100%;
+    top: 960px;
+    left: -190px;
+    position: absolute;
+}
+.flower4{
+    height: 25%;
+    width: 100%;
+    top: 1490px;
+    left: 329px;
+    position: absolute;
+}
+.flower5{
+    height: 25%;
+    width: 100%;
+    top: 960px;
+    left: 329px;
+    position: absolute;
+}
+.flower6{
+    height: 25%;
+    width: 100%;
+    top: 1490px;
+    left: 1435px;
+    position: absolute;
+}
+/*Skills*/
+.Skills{
+    height: 61%;
+    width: 400%;
+    background-color: aliceblue;
+    top: 1750px;
+    left:0px;
+    position: absolute;
+}
+.python{
+    height: 25%;
+    width: 80%;
+    top: 1798px;
+    left: 20px;
+    position: absolute;
+}
+.pythonF{
+    top: 1960px;
+    left: 145px;
+    position: absolute;
+    font-size: xx-large;
+}
+.C{
+    height: 25%;
+    width: 80%;
+    top: 1800px;
+    left: 680px;
+    position: absolute;
+}
+.CF{
+    top: 1960px;
+    left: 816px;
+    position: absolute;
+    font-size: xx-large;
+}
+.H{
+    height: 25%;
+    width: 80%;
+    top: 1800px;
+    left: 340px;
+    position: absolute;
+}
+.HF{
+    top: 1960px;
+    left: 459px;
+    position: absolute;
+    font-size: xx-large;
+}
+.JS{
+    height: 25%;
+    width: 80%;
+    top: 1800px;
+    left: 1000px;
+    position: absolute;}
+
+.JSF{top: 1960px;
+    left: 1120px;
+    position: absolute;
+    font-size: xx-large;}
+
+.flower7{
+    height: 25%;
+    width: 100%;
+    top: 1700px;
+    left: 1440px;
+    position: absolute;
+}
+.flower8{
+    height: 25%;
+    width: 100%;
+    top: 1700px;
+    left: -200px;
+    position: absolute;
+}
+.flower9{
+    height: 25%;
+    width: 100%;
+    top: 2150px;
+    left: 1440px;
+    position: absolute;
+}
+.flower10{
+    height: 25%;
+    width: 100%;
+    top: 2150px;
+    left: -200px;
+    position: absolute;
+}
+/*Projects*/
+.Projects{
+    height: 80%;
+    width: 400%;
+    background-color: aliceblue;
+    top: 2450px;
+    left:0px;
+    position: absolute;
+}
+.flower11{
+    height: 25%;
+    width: 100%;
+    top: 2400px;
+    left: 1450px;
+    position: absolute;
+}
+.flower12{
+    height: 25%;
+    width: 100%;
+    top: 2400px;
+    left: -200px;
+    position: absolute;
+}
+.flower13{
+    height: 25%;
+    width: 100%;
+    top: 3040px;
+    left: -200px;
+    position: absolute;
+}
+.flower14{
+    height: 25%;
+    width: 100%;
+    top: 3040px;
+    left: 1450px;
+    position: absolute;
+}
+.monopoly{
+    height: 80%;
+    width: 200%;
+    top: 2470px;
+    left: -2px;
+    position: absolute;
+}
+.cookbook{
+    height: 80%;
+    width: 200%;
+    top: 2470px;
+    left: 830px;
+    position: absolute;
+}
+    /*Contacts*/
+.Contacts{
+    height: 40%;
+    width: 400%;
+    background-color: aliceblue;
+    top: 3300px;
+    left:1px;
+    position: absolute;
+}
+.ContactsT{
+    top: 3200px;
+    left: 750px;
+    position: absolute;
+    font-size: xx-large;
+}
+.ContactsL{
+    top: 3200px;
+    left: 596px;
+    position: absolute;
+    font-size: xx-large;
+}
+.Mail{
+    top: 3350px;
+    left: 680px;
+    position: absolute;
+    height: 25%;
+    width: 70%;
+    
+}
+.Linkdin{
+    top: 3350px;
+    left: 300px;
+    position: absolute;
+    height: 25%;
+    width: 70%;
+}
+.Github{
+    top: 3350px;
+    left: 1060px;
+    position: absolute;
+    height: 25%;
+    width: 70%;
+}
+.flower15{
+    height: 25%;
+    width: 100%;
+    top: 3260px;
+    left: 1440px;
+    position: absolute;
+}
+.flower16{
+    height: 25%;
+    width: 100%;
+    top: 3260px;
+    left: -200px;
+    position: absolute;
+}
+.flower17{
+    height: 25%;
+    width: 100%;
+    top: 3475px;
+    left: 1440px;
+    position: absolute;
+}
+.flower18{
+    height: 25%;
+    width: 100%;
+    top: 3475px;
+    left: -200px;
+    position: absolute;
+}
+}
+
+@media only screen 
+and (min-device-width: 390px)
+and (max-device-width: 391px) {
+    .Name{
+        top: -140px;
+        left: 500px;
+        position: absolute;
+        font-size: 230px;
+    }
+    .VinesL{
+        height: 140%;
+        width: 500%;
+        top: -345px;
+        left: 500x;
+        position: absolute;
+    }
+    .border1{
+        height: 30%;
+        width: 130%;
+        top: 720px;
+        left:-110px;
+        position: absolute;
+    }
+    .border2{
+        height: 30%;
+        width: 130%;
+        top: 720px;
+        left:200px;
+        position: absolute;
+    }
+    .border3{
+        height: 30%;
+        width: 130%;
+        top: 720px;
+        left:510px;
+        position: absolute;
+    }
+    .border4{
+        height: 30%;
+        width: 130%;
+        top: 720px;
+        left:830px;
+        position: absolute;
+    }
+    .border5{
+        height: 30%;
+        width: 130%;
+        top: 720px;
+        left:1100px;
+        position: absolute;
+    }
+    .border6{
+        height: 30%;
+        width: 130%;
+        top: 720px;
+        left:1400px;
+        position: absolute;
+    }
+    
+    .Aboutb{
+        height: 35%;
+        width: 140%;
+        top: -59px;
+        left: -161px;
+        position: absolute;
+    }
+    .Skillsb{
+        height: 35%;
+        width: 140%;
+        top: 98px;
+        left: -40px;
+        position: absolute;
+    }
+    .Projectsb{
+        height: 35%;
+        width: 140%;
+        top: 250px;
+        left: -200px;
+        position: absolute;
+    }
+    .Contactsb{
+        height: 35%;
+        width: 140%;
+        top: 409px;
+        left: -60px;
         position: absolute;
     }
     
