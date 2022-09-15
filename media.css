@@ -27,9 +27,9 @@
     .VinesL{
         height: 140%;
         width: 500%;
-        top: -21em;
-        left: -17em;
-        position: fixed;
+        top: -17em;
+        left: -14em;
+        position: absolute;
     }
     .border1{
         height: 30%;
