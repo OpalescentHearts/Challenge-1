@@ -104,7 +104,7 @@
     }
     /*About me*/
     .Picture{
-        height: 70%;
+        height: 80%;
         width: 130%;
         background-color:#9E606F;
         top: 1000px;
@@ -113,8 +113,8 @@
         border-radius: 25%;
         }
         .About{
-        height: 70%;
-        width: 400%;
+        height: 85%;
+        width: 400vw;
         background-color: aliceblue;
         top: 1000px;
         left:0px;
@@ -144,7 +144,7 @@
         .flower3{
         height: 25%;
         width: 100%;
-        top: 960px;
+        top: 977px;
         left: -190px;
         position: absolute;
         }
@@ -158,7 +158,7 @@
         .flower5{
         height: 25%;
         width: 100%;
-        top: 960px;
+        top: 977px;
         left: 329px;
         position: absolute;
         }
