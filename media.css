@@ -104,8 +104,8 @@
     }
     /*About me*/
     .Picture{
-        height: 80%;
-        width: 130%;
+        height: 85%;
+        width: 141vw;
         background-color:#9E606F;
         top: 1000px;
         left: -1px;
@@ -177,6 +177,8 @@
         top: 1750px;
         left:0px;
         position: absolute;
+        display: grid;
+        grid-template-columns: ;
         }
         .python{
         height: 25%;
