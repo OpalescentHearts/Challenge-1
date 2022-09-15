@@ -1,7 +1,7 @@
 @media only screen 
 and (min-device-width: 0px)
 and (max-device-width: 360px) {
-    .Name{
+.Name{
     top: -200px;
     left: 487px;
     position: absolute;
@@ -56,7 +56,6 @@ and (max-device-width: 360px) {
     left:1400px;
     position: absolute;
 }
-
 .Aboutb{
     height: 35%;
     width: 140%;
@@ -85,7 +84,6 @@ and (max-device-width: 360px) {
     left: -52px;
     position: absolute;
 }
-
 /*About me*/
 .Picture{
 height: 70%;
@@ -361,6 +359,7 @@ width: 100%;
 top: 3475px;
 left: -200px;
 position: absolute;
+}
 }
 @media only screen 
 and (min-device-width: 361px)
