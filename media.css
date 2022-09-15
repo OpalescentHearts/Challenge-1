@@ -251,6 +251,27 @@ and (max-device-width: 1200px) {
         left: -200px;
         position: absolute;
     }
+    .Skillsb{
+        height: 35%;
+        width: 140%;
+        top: 88px;
+        left: -60px;
+        position: absolute;
+    }
+    .Projectsb{
+        height: 35%;
+        width: 140%;
+        top: 254px;
+        left: -210px;
+        position: absolute;
+    }
+    .Contactsb{
+        height: 35%;
+        width: 140%;
+        top: 420px;
+        left: -80px;
+        position: absolute;
+    }
     
     /*About me*/
 .Picture{
@@ -318,7 +339,215 @@ and (max-device-width: 1200px) {
     left: 1435px;
     position: absolute;
 }
+/*Skills*/
+.Skills{
+    height: 61%;
+    width: 400%;
+    background-color: aliceblue;
+    top: 1750px;
+    left:0px;
+    position: absolute;
+}
+.python{
+    height: 25%;
+    width: 80%;
+    top: 1798px;
+    left: 20px;
+    position: absolute;
+}
+.pythonF{
+    top: 1960px;
+    left: 145px;
+    position: absolute;
+    font-size: xx-large;
+}
+.C{
+    height: 25%;
+    width: 80%;
+    top: 1800px;
+    left: 680px;
+    position: absolute;
+}
+.CF{
+    top: 1960px;
+    left: 816px;
+    position: absolute;
+    font-size: xx-large;
+}
+.H{
+    height: 25%;
+    width: 80%;
+    top: 1800px;
+    left: 340px;
+    position: absolute;
+}
+.HF{
+    top: 1960px;
+    left: 459px;
+    position: absolute;
+    font-size: xx-large;
+}
+.JS{
+    height: 25%;
+    width: 80%;
+    top: 1800px;
+    left: 1000px;
+    position: absolute;}
 
+.JSF{top: 1960px;
+    left: 1120px;
+    position: absolute;
+    font-size: xx-large;}
+
+.flower7{
+    height: 25%;
+    width: 100%;
+    top: 1700px;
+    left: 1440px;
+    position: absolute;
+}
+.flower8{
+    height: 25%;
+    width: 100%;
+    top: 1700px;
+    left: -200px;
+    position: absolute;
+}
+.flower9{
+    height: 25%;
+    width: 100%;
+    top: 2150px;
+    left: 1440px;
+    position: absolute;
+}
+.flower10{
+    height: 25%;
+    width: 100%;
+    top: 2150px;
+    left: -200px;
+    position: absolute;
+}
+/*Projects*/
+.Projects{
+    height: 80%;
+    width: 400%;
+    background-color: aliceblue;
+    top: 2450px;
+    left:0px;
+    position: absolute;
+}
+.flower11{
+    height: 25%;
+    width: 100%;
+    top: 2400px;
+    left: 1450px;
+    position: absolute;
+}
+.flower12{
+    height: 25%;
+    width: 100%;
+    top: 2400px;
+    left: -200px;
+    position: absolute;
+}
+.flower13{
+    height: 25%;
+    width: 100%;
+    top: 3040px;
+    left: -200px;
+    position: absolute;
+}
+.flower14{
+    height: 25%;
+    width: 100%;
+    top: 3040px;
+    left: 1450px;
+    position: absolute;
+}
+.monopoly{
+    height: 80%;
+    width: 200%;
+    top: 2470px;
+    left: -2px;
+    position: absolute;
+}
+.cookbook{
+    height: 80%;
+    width: 200%;
+    top: 2470px;
+    left: 830px;
+    position: absolute;
+}
+    /*Contacts*/
+.Contacts{
+    height: 40%;
+    width: 400%;
+    background-color: aliceblue;
+    top: 3300px;
+    left:1px;
+    position: absolute;
+}
+.ContactsT{
+    top: 3200px;
+    left: 750px;
+    position: absolute;
+    font-size: xx-large;
+}
+.ContactsL{
+    top: 3200px;
+    left: 596px;
+    position: absolute;
+    font-size: xx-large;
+}
+.Mail{
+    top: 3350px;
+    left: 680px;
+    position: absolute;
+    height: 25%;
+    width: 70%;
     
+}
+.Linkdin{
+    top: 3350px;
+    left: 300px;
+    position: absolute;
+    height: 25%;
+    width: 70%;
+}
+.Github{
+    top: 3350px;
+    left: 1060px;
+    position: absolute;
+    height: 25%;
+    width: 70%;
+}
+.flower15{
+    height: 25%;
+    width: 100%;
+    top: 3260px;
+    left: 1440px;
+    position: absolute;
+}
+.flower16{
+    height: 25%;
+    width: 100%;
+    top: 3260px;
+    left: -200px;
+    position: absolute;
+}
+.flower17{
+    height: 25%;
+    width: 100%;
+    top: 3475px;
+    left: 1440px;
+    position: absolute;
+}
+.flower18{
+    height: 25%;
+    width: 100%;
+    top: 3475px;
+    left: -200px;
+    position: absolute;
+}
 }
 
