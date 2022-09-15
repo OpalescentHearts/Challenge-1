@@ -20,7 +20,7 @@ body{
 .Name{
     top: -170px;
     left: 500px;
-    position: fixed;
+    position: absolute;
     font-size: 200px;
 }
 .VinesL{
@@ -28,7 +28,7 @@ body{
     width: 140%;
     top: -285px;
     left: -268px;
-    position: fixed;
+    position: absolute;
 }
 
 
