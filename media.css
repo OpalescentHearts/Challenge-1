@@ -1,7 +1,23 @@
-/*Iphone?*/
 @media only screen 
-  and (min-device-width: 414px) 
-  and (max-device-width: 736px) { 
+  and (min-device-width: 300px) {
+    .Name{
+        top: -0.60em;
+        left: 3em;
+        position: absolute;
+        font-size: 10em;
+    }
+    .VinesL{
+        height: 140%;
+        width: 500%;
+        top: -21em;
+        left: -13em;
+        position: absolute;
+    }
+  }
+/*Iphone*/
+@media only screen 
+  and (min-device-width: 413px) 
+  and (max-device-width: 414px) { 
     .Name{
         top: -1em;
         left: 3em;
@@ -12,7 +28,7 @@
         height: 140%;
         width: 500%;
         top: -22em;
-        left: -250px;
+        left: -15.3em;
         position: absolute;
     }
     .border1{
