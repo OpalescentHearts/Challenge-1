@@ -21,7 +21,7 @@
     .Name{
         top: -0.60em;
         left: 2.5em;
-        position: fixed;
+        position: absolute;
         font-size: 13em;
     }
     .VinesL{
@@ -36,70 +36,70 @@
         width: 130%;
         top: 45em;
         left:-7em;
-        position: fixed;
+        position: absolute;
     }
     .border2{
         height: 30%;
         width: 130%;
         top: 45em;
         left:11em;
-        position: fixed;
+        position: absolute;
     }
     .border3{
         height: 30%;
         width: 130%;
         top: 45em;
         left:27em;
-        position: fixed;
+        position: absolute;
     }
     .border4{
         height: 30%;
         width: 130%;
         top: 45em;
         left:42em;
-        position: fixed;
+        position: absolute;
     }
     .border5{
         height: 30%;
         width: 130%;
         top: 45em;
         left:58em;
-        position: fixed;
+        position: absolute;
     }
     .border6{
         height: 30%;
         width: 130%;
         top: 45em;
         left:76em;
-        position: fixed;
+        position: absolute;
     }
     .Aboutb{
-        height: 35%;
+        height: 36%;
         width: 140%;
-        top: -3.2em;
-        left: -11em;
-        position: fixed;
+        top: -3.3em;
+        left: -8em;
+        position: absolute;
     }
     .Skillsb{
-        height: 35%;
+        height: 36%;
         width: 140%;
-        top: 6.6em;
-        left: -2.2em;
-        position: fixed;
+        top: 20em;
+        left: -1.4em;
+        position: absolute;
     }
     .Projectsb{
         height: 35%;
         width: 140%;
         top: 16.3em;
         left: -12em;
-        position: fixed;
+        position: absolute;
     }
     .Contactsb{
         height: 35%;
         width: 140%;
         top: 25em;
         left: -1.4em;
-        position: fixed;
+        position: absolute;
     }
   }
 /*Iphone*/
