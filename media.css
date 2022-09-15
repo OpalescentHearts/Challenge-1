@@ -1,3 +1,4 @@
+/*Iphone SE*/
 @media only screen 
   and (min-device-width: 0px)
   and (max-device-width: 390px) {
@@ -88,17 +89,17 @@
         position: absolute;
     }
     .Projectsb{
-        height: 35%;
+        height: 36%;
         width: 140%;
         top: 16.3em;
         left: -12em;
         position: absolute;
     }
     .Contactsb{
-        height: 35%;
+        height: 36%;
         width: 140%;
-        top: 25em;
-        left: -1.4em;
+        top: 5em;
+        left: -0.4em;
         position: absolute;
     }
   }
