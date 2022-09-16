@@ -751,7 +751,16 @@
     }
 }
 @media only screen
-and (min-device-width:2880px) {
+and (min-device-width:2000px) {
+    .Name{
+        top: -170px;
+        left: 500px;
+        position: absolute;
+        font-size: 40px;
+    }
+}
+@media only screen
+and (min-device-width:1450px) {
     .Name{
         top: -170px;
         left: 500px;
