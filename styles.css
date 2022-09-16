@@ -1,12 +1,15 @@
 /*Macs*/
 body{
-    background-image: linear-gradient(#9E606F, #C07F80, #E1AA96, #E9BCB2, #E1989F);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    padding: 0%;
-    margin: 0%;
-    font-family: 'Brush Script MT', 'Rage', cursive;
-    overflow-x: hidden;
+        background-image: linear-gradient(#9E606F, #C07F80, #E1AA96, #E9BCB2, #E1989F);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        padding: 0%;
+        margin: 0%;
+        font-family: 'Brush Script MT', 'Rage', cursive;
+        overflow-x: hidden;
+        width: fit-content;
+        
+    
     
 }
 .view {
