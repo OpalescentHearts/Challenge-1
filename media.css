@@ -1502,9 +1502,9 @@
 @media only screen
 and (min-device-width:1500px){
     .Name{
-        top: -170px;
-        left: 500px;
+        top: -74px;
+        left: 490px;
         position: absolute;
-        font-size: 40px;
+        font-size: 125px;
     }
 }
