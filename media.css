@@ -238,23 +238,23 @@
             font-size: xx-large;
         }
         .spring{
-            height: 22%;
-            width: 25%;
-            top: 1738px;
+            height: 25%;
+            width: 79%;
+            top: 1976px;
             left: 340px;
             position: absolute;
         }
         .springF{
             top: 2069px;
-            left: 445px;
+            left: 452px;
             position: absolute;
             font-size: xx-large;
         }
         .java{
-            height: 20%;
-            width: 20%;
-            top: 1740px;
-            left: 797px;
+            height: 23%;
+            width: 57%;
+            top: 1980px;
+            left: 717px;
             position: absolute;
         }
         .javaF{
@@ -265,9 +265,9 @@
         }
         .sql{
             height: 18%;
-            width: 20%;
-            top: 1750px;
-            left: 1050px;
+            width: 57%;
+            top: 2005px;
+            left: 1058px;
             position: absolute;
         }
         .sqlF{
