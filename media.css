@@ -163,10 +163,10 @@
         }
         /*Skills*/
     .Skills{
-        height: 61%;
+        height: 75%;
         width: 400%;
         background-color: aliceblue;
-        top: 1750px;
+        top: 1735px;
         left:0px;
         position: absolute;
         display: grid;
