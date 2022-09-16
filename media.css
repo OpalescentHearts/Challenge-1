@@ -1515,15 +1515,15 @@ and (min-device-width:1500px){
         position: absolute;
     }
     .Skillsb{
-        height: 36%;
-        width: 140%;
-        top: 11.8em;
-        left: -5.8em;
+        height: 35%;
+        width: 40%;
+        top: 169px;
+        left: -149em;
         position: absolute;
     }
     .Projectsb{
-        height: 36%;
-        width: 140%;
+        height: 35%;
+        width: 40%;
         top: 20.1em;
         left: -5em;
         position: absolute;
@@ -1533,5 +1533,13 @@ and (min-device-width:1500px){
         width: 40%;
         top: 62px;
         left: -45px;
+        position: absolute;}
+    .AboutF{
+        top: 815px;
+        left:498px;
         position: absolute;
+        font-size:50px;
+        width: fit-content;
+
+    }
 }
