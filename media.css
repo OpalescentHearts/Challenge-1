@@ -8,8 +8,9 @@
         background-attachment: fixed;
         padding: 0%;
         margin: 0%;
-        font-family: 'Brush Script MT', cursive;
+        font-family: 'Brush Script MT', ,cursive;
         overflow-x: hidden;
+        width: fit-content;
         
     }
     .view {
@@ -178,7 +179,7 @@
         left:0px;
         position: absolute;
         display: grid;
-        grid-template-columns: ;
+        grid-template-columns: auto auto auto;
         }
         .python{
         height: 25%;
@@ -749,4 +750,12 @@
     position: absolute;
     }
 }
-
+@media only screen
+and (min-device-width:2880px) {
+    .Name{
+        top: -170px;
+        left: 500px;
+        position: absolute;
+        font-size: 40px;
+    }
+}
