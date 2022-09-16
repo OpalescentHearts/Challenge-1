@@ -750,13 +750,14 @@
     position: absolute;
     }
 }
+
 @media only screen
 and (min-device-width:1500px)
-and (max-device-width: 2000) {
+and (max-device-width: 2000px) {
     .Name{
         top: -170px;
         left: 500px;
         position: absolute;
-        font-size: 40px;
+        font-size: 4px;
     }
 }
