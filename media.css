@@ -1507,4 +1507,31 @@ and (min-device-width:1500px){
         position: absolute;
         font-size: 125px;
     }
+    .Aboutb{
+        height: 35%;
+        width: 40%;
+        top: -67px;
+        left: -100px;
+        position: absolute;
+    }
+    .Skillsb{
+        height: 36%;
+        width: 140%;
+        top: 11.8em;
+        left: -5.8em;
+        position: absolute;
+    }
+    .Projectsb{
+        height: 36%;
+        width: 140%;
+        top: 20.1em;
+        left: -5em;
+        position: absolute;
+    }
+    .Contactsb{
+        height: 35%;
+        width: 40%;
+        top: 62px;
+        left: -45px;
+        position: absolute;
 }
