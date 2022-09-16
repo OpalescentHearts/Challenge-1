@@ -180,8 +180,8 @@
         position: absolute;
         }
         .pythonF{
-        top: 1960px;
-        left: 145px;
+        top: 1909px;
+        left: 140px;
         position: absolute;
         font-size: xx-large;
         }
@@ -193,8 +193,8 @@
         position: absolute;
         }
         .CF{
-        top: 1960px;
-        left: 816px;
+        top: 1909px;
+        left: 797px;
         position: absolute;
         font-size: xx-large;
         }
@@ -206,8 +206,8 @@
         position: absolute;
         }
         .HF{
-        top: 1960px;
-        left: 459px;
+        top: 1909px;
+        left: 445px;
         position: absolute;
         font-size: xx-large;
         }
@@ -219,8 +219,8 @@
         position: absolute;}
         
         .JSF{
-        top: 1960px;
-        left: 1120px;
+        top: 1909px;
+        left: 1099px;
         position: absolute;
         font-size: xx-large;}
         
@@ -232,8 +232,8 @@
             position: absolute;
         }
         .djangoF{
-            top: 1820px;
-            left: 145px;
+            top: 2069px;
+            left: 140px;
             position: absolute;
             font-size: xx-large;
         }
@@ -245,8 +245,8 @@
             position: absolute;
         }
         .springF{
-            top: 1820px;
-            left: 475px;
+            top: 2069px;
+            left: 445px;
             position: absolute;
             font-size: xx-large;
         }
@@ -254,12 +254,12 @@
             height: 20%;
             width: 20%;
             top: 1740px;
-            left: 700px;
+            left: 797px;
             position: absolute;
         }
         .javaF{
-            top: 1830px;
-            left: 816px;
+            top: 2069px;
+            left: 800px;
             position: absolute;
             font-size: xx-large;
         }
@@ -271,8 +271,8 @@
             position: absolute;
         }
         .sqlF{
-            top: 1830px;
-            left: 1135px;
+            top: 2069px;
+            left: 1120px;
             position: absolute;
             font-size: xx-large;
         }
